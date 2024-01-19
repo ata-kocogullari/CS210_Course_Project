@@ -2,7 +2,7 @@
 # Seasons in Finance: Semester vs. Vacation
 
 ## Introduction
-This project conducts a comprehensive analysis of bank transactions spanning from December 2022 to January 17, 2024, with a focus on comparing spending patterns during academic semesters and vacation periods. By delving into the financial dynamics of these distinct temporal contexts, the project aims to uncover variations and provide insights into the ebb and flow of spending habits.
+This project conducts a comprehensive analysis of bank transactions spanning slightly more than a one-year time interval, with a focus on comparing spending patterns during academic semesters and vacation periods. By delving into the financial dynamics of these distinct temporal contexts, the project aims to uncover variations and provide insights into the ebb and flow of spending habits.
 
 ## Description:
 Does your wallet feel the weight of textbooks more than the allure of adventure? These analyzes are more than a ledger – it is a snapshot of a financial rhythm and offers insights into the ebb and flow of the financial tempo. Insights are based on my bank transactions between December 2022 and January 17, 2024.
