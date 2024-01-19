@@ -17,18 +17,28 @@ Jupyter Notebook, Python 3.11.7.
 * To have better performance, possessment of Jupyter Notebook and Python with a recent version is recommended.
 * Download both .ipnyb and .xlsx file. Make sure that they are inside the same directory. Creating a folder and inserting them both is highly recommended.
 * Make sure to run these commands in your Python environment to install the required packages before running the script that uses these libraries:
-
-  *pip install matplotlib
-  *pip install pandas
-  *pip install seaborn
-  *pip install scikit-learn
+  * pip install pandas
+  * pip install seaborn
+  * pip install scikit-learn
+  * pip install matplotlib
 
 ## Contents of the files in this project:
 * .xlsx file is the dataset to be used in analyzes at this project. It includes nearly all of the bank transactions made in the time period between December 2022 - January, 17, 2024. This dataset is obtained from the webpage of Akbank enabling users to download their individual bank transactions.
   
 * .pdf file is the project report having explanation of all the steps of the project, and elaborative analyzes on the data obtained through not only extensive graphs and categorizations generated via the dataset, but also predictions made with the application of machine learning. In order to acquire better comprehension of this project, the report has a cornerstone role.
-  
+   *  #### Index of the project-report.pdf:
+            A. Introduction
+               a. Timeline Framework & Goal of the Project
+            B. Hypothesis of the Project
+            C. Data Collection and Processing
+               a. Costs in Time Fragments
+               b. Most Frequent Transactions in Fall 2023-2024
+            D. Data Analysis and Interpretation
+               a. Costs in Time Fragments
+               b. Most Frequent Transactions in Fall 2023-2024
+            E. Conclusion
+        
 * .ipynb file includes the codes utilized for the graphing and generating machine learning models. Elaborative information about the project and components used in analyzes can be accessed through .ipynb file.
 
-
+_For detailed information about the content of the project, please check the files listed above. Thank you._
 
