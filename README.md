@@ -17,10 +17,11 @@ Jupyter Notebook, Python 3.11.7.
 * To have better performance, possessment of Jupyter Notebook and Python with a recent version is recommended.
 * Download both .ipnyb and .xlsx file. Make sure that they are inside the same directory. Creating a folder and inserting them both is highly recommended.
 * Make sure to run these commands in your Python environment to install the required packages before running the script that uses these libraries:
-  pip install matplotlib
-  pip install pandas
-  pip install seaborn
-  pip install scikit-learn
+
+  *pip install matplotlib
+  *pip install pandas
+  *pip install seaborn
+  *pip install scikit-learn
 
 ## Contents of the files in this project:
 * .xlsx file is the dataset to be used in analyzes at this project. It includes nearly all of the bank transactions made in the time period between December 2022 - January, 17, 2024. This dataset is obtained from the webpage of Akbank enabling users to download their individual bank transactions.
